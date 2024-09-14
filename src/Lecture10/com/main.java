@@ -39,6 +39,7 @@ static void welcome(){
 	System.out.println(obj.sub());
 	System.out.println(obj.mul());
 	
+	
 	algebra obj2=new algebra(4,50);
 	System.out.println(obj2.add());
 	System.out.println(obj2.sub());
