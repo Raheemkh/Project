@@ -8,6 +8,7 @@ public class Arr1 {
 			//System.out.println(i+" :"+myArray[i]);
 		for(int i:myArray) {
 			System.out.println(i);
+			
 		}	
 		}
 
